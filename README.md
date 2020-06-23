@@ -11,6 +11,12 @@ My escensial config to create REST API in NodeJS with TypeScript.
 * TypeScript
 
 ## TODO
-- [ ] Add GraphQL demo and test
-- [ ] Add MongoDB demo and test
-- [ ] 
+- [ ] GraphQL demo and test
+- [ ] MongoDB demo and test
+- [ ] SocketIO demo and test
+- [ ] MySql demo and test
+- [ ] PostgreSql demo and test
+- [ ] Dockerfile
+- [ ] Docker compose for Node and MongoDB
+- [ ] Docker compose for Node and MySql
+- [ ] Docker compose for Node and PostgreSql
