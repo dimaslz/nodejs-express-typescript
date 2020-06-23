@@ -11,4 +11,6 @@ My escensial config to create REST API in NodeJS with TypeScript.
 * TypeScript
 
 ## TODO
+- [ ] Add GraphQL demo and test
+- [ ] Add MongoDB demo and test
 - [ ] 
